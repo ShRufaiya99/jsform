@@ -23,6 +23,10 @@ body{
     height: 150vh;
 }
 
+.hidden{
+    display: none;
+}
+
 #toggle{
     margin: 0 auto;
     text-align: center;
